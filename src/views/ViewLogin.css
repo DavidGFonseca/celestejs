@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  background: url("../assets/bg-celeste-grande.jpg") no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
