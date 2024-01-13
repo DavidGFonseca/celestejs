@@ -3,6 +3,7 @@ Objetivo: A proposta é entregar uma ferramenta de agendamentos, automona e de f
 
 Este website esta sendo construído com as tecnolgias:
 
+- Vite
 - React
 - HTML e CSS
 - JavaScript
@@ -16,6 +17,6 @@ Dois ambientes:
 
 A Celeste trata de comunicar o profissional, sobre o agendamento e inativar a disponibilidade recem agendada.
 
-<img src="./src/Assets/viewCeleste.png">
+<img src="./src/assets/viewCeleste.png">
 
 <h3 align="center">Em construção</h3>
